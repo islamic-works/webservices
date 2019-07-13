@@ -1,0 +1,7 @@
+[submodule "assets"]
+	path = src/assets
+	url = git@github.com:islamic-works/assets.git
+[submodule "api-v1"]
+	path = src/api/v1
+	url = git@github.com:islamic-works/data.git
+	branch = prod
